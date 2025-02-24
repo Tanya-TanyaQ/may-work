@@ -10,3 +10,4 @@ int main() {
 int Calculate_Square(int Number) {
     return Number * Number;
 }
+
