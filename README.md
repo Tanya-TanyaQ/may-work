@@ -9,3 +9,4 @@ angle = float(input("Введите угол в градусах (0-360): "))
 direction = determine_direction(angle)
 print("Сторона света:", direction)
 print("Сторона 27 марта света:", direction)
+28 march
