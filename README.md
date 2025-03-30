@@ -10,3 +10,4 @@ direction = determine_direction(angle)
 print("Сторона света:", direction)
 print("Сторона 27 марта света:", direction)
 28 march
+30 march
