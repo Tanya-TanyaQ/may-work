@@ -1,8 +1,4 @@
-04 april 
-
-
-
-
+055555 april 
 
 def determine_direction(degrees):
     """Определяет сторону света на основе угла в градусах."""
