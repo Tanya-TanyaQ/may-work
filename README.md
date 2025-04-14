@@ -2,8 +2,6 @@
 
 
 
-
-
 direction = determine_direction(angle)
 angle = float(input("Введите угол в градусах (0-360): "))
 direction = determine_direction(angle)
