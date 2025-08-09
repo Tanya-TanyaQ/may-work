@@ -10,7 +10,7 @@ def determine_direction(degrees):
     index = round(degrees / 45) % 8
     return directions[index]b
 Далее следует вот это 
-# Пример использования 
+# Пример использования  
 angle = float(input("Введите угол в градусах (0-360): "))
 direction = determine_direction(angle)
 print("Сторона света:", direction)
