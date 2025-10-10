@@ -11,7 +11,7 @@ def determine_direction(degrees):
     return directions[index]b
 Далее следует вот это 
 # Пример использования 
-angle = float(input("Введите угол в градусах (0-360): "))  
+angle = float(input("Введите угол в градусах (0-360): ")) 
 direction = determine_direction(angle)
 print("Сторона света:", direction)
 print("Сторона 27 марта света:", direction)
