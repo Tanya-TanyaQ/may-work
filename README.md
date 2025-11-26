@@ -14,7 +14,7 @@ def determine_direction(degrees):
 angle = float(input("Введите угол в градусах (0-360): "))  
 direction = determine_direction(angle) 
 print("Сторона света:", direction)
-print("Сторона 27 марта света:", direction)
+print("Сторона 27 марта света:", direction)   
 
 
 2.29 Gh/s GLOBAL CPU 4.435 CPUs PAYOUT 41.3 M $NOM GLOBAL RAM 9.33 Tb
