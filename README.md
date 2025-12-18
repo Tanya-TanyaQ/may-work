@@ -10,7 +10,7 @@ def determine_direction(degrees):
     index = round(degrees / 45) % 8       
     return directions[index]b
 Далее следует вот это    
-# Пример использования 
+# Пример использования
 
 
 
