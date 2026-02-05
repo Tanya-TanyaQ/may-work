@@ -1,5 +1,5 @@
 # Пример использования 05
-direction = determine_direction(angle)
+direction = determine_direction(angle) 
 angle = float(input("Введите угол в градусах (0-360): ")) float(input("Введите угол в градусах (0-360): ")) float(input("Введите угол в градусах (0-360): "))
 direction = determine_direction(angle)
 print("Сторона света:", direction)
